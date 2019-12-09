@@ -1,6 +1,6 @@
 # pytonik .env file setup
 
-[pytonik](https://pypi.python.org/pypi/pytonik) .env file contains properties with parameters that enable to deployment and development of application.
+[pytonik](https://pypi.python.org/pypi/pytonik) .env file contains properties with parameters that enable the deployment and development of web application using [pytonik](https://pypi.python.org/pypi/pytonik) frame work.
 [pytonik](https://pypi.python.org/pypi/pytonik) MVC cannot run or function without setting all necessary parameters.
 
 ## .env Property
