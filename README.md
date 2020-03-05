@@ -7,6 +7,7 @@
   - route
   - dbConnect
   - languages
+  - error
   - SMTP
 
 ## route
@@ -39,7 +40,7 @@ dbConnect set all Database connection parameters, configure pytonik to work with
               'password': 'database-password',
               'username': 'database-username',
               'port': 'database-port',
-              'driver': 'MYSQLi'
+              'driver': 'MYSQL'
          }
 ``` 
 
